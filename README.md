@@ -1,4 +1,5 @@
 # GabrielMartins
 Git de Gabriel Martins, estudante da una buscando ser dev em java.
-git add
-sla cara loucura
+Conhecimento em versionamento de software(git, GitHub)
+Conhecimento na linguagem java
+Breve conhecimento em C#
